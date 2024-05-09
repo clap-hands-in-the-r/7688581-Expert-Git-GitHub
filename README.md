@@ -11,7 +11,9 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
+
 Le supercalculateur Mingwi c++ 28.12
+Un navigateur web C4P2+tt. Un moteur de base de données Megapostgres v18B5.
 
 ```
 
